@@ -10,9 +10,9 @@ Faculty: Smaranjit Ghose
 - 5B17
 
 
-## Introduction to Artificial Intelligence
 
-## Python for AI
+
+## Unit 1: Introduction to AI and Python for AI
 
 - Variables, Keywords, Expressions
 - Operators
@@ -96,8 +96,9 @@ Faculty: Smaranjit Ghose
 
 
 
+---
 
-## Exploratory Data Analysis
+## Unit 2: Exploratory Data Analysis
 
 - Numpy
     - Numpy Situational Problems  
@@ -128,7 +129,11 @@ Faculty: Smaranjit Ghose
 | 4 | [Covid-19 Clinical Trials dataset](https://www.kaggle.com/datasets/parulpandey/covid19-clinical-trials-dataset) | | 
 | 5 | [Palmer Archipelago dataset](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)| | 
 
-## x
+---
+
+## Unit 3
+
+[State Space Search](https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)
 
 ## Knowledge Representation
 
