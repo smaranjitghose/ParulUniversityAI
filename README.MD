@@ -54,40 +54,12 @@ Faculty: Smaranjit Ghose
 
 [State Space Search](https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)
 
-## Knowledge Representation
+## Unit 4
 
-## Fuzzy Analysis
+[Knowledge Representation](https://docs.google.com/presentation/d/18pDtVmlpP-T_C7N3oGf7H9FEWf291R2jNWYC75ZeVt4/edit?usp=sharing)
 
-## Machine Learning: Deep Dive
+## Unit 5
 
-- Classification
-- Performance Metrics
-- Hyperparameter Optimization
-- Regression
-- Clustering
-- Feature Engineering
-
-
-Hands on Walkthroughs: 1,2,3,4,5,6,7,8,9,10
-
-**Practice Problems**
-
-|Sl No|Dataset|Solution|
-|-----|-------|--------|
-| 1 |  | | 
-| 2 | | | 
-| 3 | | | 
-| 4 | | | 
-| 5 | | | 
-| 6 | | | 
-| 7 | | | 
-| 8 | | | 
-| 9 | | |
-|10 | | |
-| 11 | | |
-| 12 | | |
-| 13 | | |
-| 14 | | |
 
 ## Introduction to Natural Language Processing
 
