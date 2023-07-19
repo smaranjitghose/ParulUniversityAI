@@ -60,6 +60,8 @@ Faculty: Smaranjit Ghose
 
 ## Unit 5
 
+[Fuzzy Sets and Fuzzy Logic](https://docs.google.com/presentation/d/1RMfno0017k02J1oSIuOoX7YoV3khmST4DXqt8vl1ohE/edit?usp=sharing)
+
 
 ## Introduction to Natural Language Processing
 
