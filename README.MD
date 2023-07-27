@@ -60,5 +60,31 @@
 
 - [datetime module](./datetime_tutorial.ipynb)
 
-<!-- -->
+<!-- 
+
+- os module
+- pathlib module
+- glob module
+- random module
+- requests module
+- math module
+- collections module
+- Polars for Data Science
+- Plotly for Data Science
+- Pandas Tricks
+- Matplotlib Tricks
+- Streamlit for Data Science
+- Advanced Python 1
+- Advanced Python 2
+- Advanced Python 3
+- Advanced Python 4
+- Advanced Python 5
+- Advanced Python 6
+- Advanced Python 7
+- Advanced Python 8
+- Advanced Python 9
+- Advanced Python 10
+
+
+-->
 
