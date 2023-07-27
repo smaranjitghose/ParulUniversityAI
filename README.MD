@@ -4,7 +4,7 @@
 ## **🎓 Course Information**
 
 - **Subject Code** : 203105322
-- **Faculty**: Mr Smaranjit Ghose
+- **Faculty**: Mr Smaranjit Ghose (Assistant Professor)
 - **Semester**: 5
 - **Year**: 2023
 - **Divisions** (under direct tutelage): 5B5, 5B6, 5B7, 5B8, 5B17
@@ -20,6 +20,21 @@
 ---
 
 ## Unit 2: Exploratory Data Analysis
+
+|Unit | Name | Lecture Material | Practice Problem(s)| Solution(s) |
+|-----|------|-------------------|-----------------| Solutions(s) |
+| 1 | Introduction to Artificial Intelligence | | | |
+| 2 | Exploratory Data Analysis | | | |
+| 3 | State Space Search| - [Unit 3 Material]((https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)| | |
+| 4 | Knowledge Representation | | | |
+| 5 | Fuzzy Logic | | | |
+| 6 | Machine Learning | | | |
+| 7 | Natural Language Processing | | | |
+| 8 | Fundamentals of Neural Netorks | | | |
+
+
+
+
 
 - Numpy
     - Numpy Situational Problems  
@@ -55,7 +70,7 @@
 
 ## Unit 3
 
-[State Space Search](https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)
+[State Space Search]
 
 ## Unit 4
 
