@@ -33,20 +33,22 @@ Faculty: Smaranjit Ghose
 |------|---------|---------|
 |1|[Iris](https://www.kaggle.com/datasets/uciml/iris)||
 |2|[Titanic](https://www.kaggle.com/competitions/titanic)| [Titanic_EDA](./EDA_Problems/Titanic_EDA.ipynb)|
-|3|[Boston Housing](https://www.kaggle.com/c/boston-housing)||
-|4|[PIMA Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)||
-|5|[Amazon Review for Sentiment Analysis](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)||
+
+| 3 | [IPL 2008-2022 matches dataset](https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset) | [IPL EDA](./EDA_Problems/IPL_EDA.ipynb) | 
+
 
 
 **EDA Practice Problems**
 
 |Sl No|Dataset|Solution|
 |-----|-------|--------|
-| 1 | [IPL 2008-2022 matches dataset](https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset) | [IPL EDA](./EDA_Problems/IPL_EDA.ipynb) | 
+|1|[Boston Housing](https://www.kaggle.com/c/boston-housing)||
 | 2 | [U.S. International Air Traffic 1990-2020 dataset ](https://www.kaggle.com/datasets/parulpandey/us-international-air-traffic-data)| | 
 | 3 | [Forbes Highest Paid Athletes 1990-2019 dataset](https://www.kaggle.com/datasets/parulpandey/forbes-highest-paid-athletes-19902019) | | 
 | 4 | [Covid-19 Clinical Trials dataset](https://www.kaggle.com/datasets/parulpandey/covid19-clinical-trials-dataset) | | 
 | 5 | [Palmer Archipelago dataset](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)| | 
+| 6 |[PIMA Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)||
+| 7 |[Amazon Review for Sentiment Analysis](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)||
 
 ---
 
@@ -68,7 +70,7 @@ Faculty: Smaranjit Ghose
 
 ## Neural Networks: Deep Dive
 
-## Additional Python Tutorial
+## 👜 Supplementary Python Tutorials
 
 - [datetime module](./datetime_tutorial.ipynb)
 
