@@ -13,11 +13,6 @@
 ## **📚 Study Material**
 
 
-## Unit 1: 
-
-[Introduction to AI](./Unit1.pptx)
-
----
 
 ## Unit 2: Exploratory Data Analysis
 
@@ -26,23 +21,14 @@
 | 1 | Introduction to Artificial Intelligence | | | |
 | 2 | Exploratory Data Analysis | | | |
 | 3 | State Space Search| - [Unit 3 Material](https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)| | |
-| 4 | Knowledge Representation | | | |
-| 5 | Fuzzy Logic | | | |
+| 4 | Knowledge Representation | [Unit 4 Material ](https://docs.google.com/presentation/d/18pDtVmlpP-T_C7N3oGf7H9FEWf291R2jNWYC75ZeVt4/edit?usp=sharing)| | |
+| 5 | Fuzzy Logic |[Unit 5 Material](https://docs.google.com/presentation/d/1RMfno0017k02J1oSIuOoX7YoV3khmST4DXqt8vl1ohE/edit?usp=sharing) | | |
 | 6 | Machine Learning | | | |
 | 7 | Natural Language Processing | | | |
 | 8 | Fundamentals of Neural Netorks | | | |
 
 
 
-
-
-- Numpy
-    - Numpy Situational Problems  
-    - [Numpy Mathematical Problems](./Numpy_Mathematical_Problems.ipynb)
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly
 
 **EDA Hands-On** 
 
@@ -66,25 +52,8 @@
 | 6 |[PIMA Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)||
 | 7 |[Amazon Review for Sentiment Analysis](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)||
 
----
-
-## Unit 3
-
-[State Space Search]
-
-## Unit 4
-
-[Knowledge Representation](https://docs.google.com/presentation/d/18pDtVmlpP-T_C7N3oGf7H9FEWf291R2jNWYC75ZeVt4/edit?usp=sharing)
-
-## Unit 5
-
-[Fuzzy Sets and Fuzzy Logic](https://docs.google.com/presentation/d/1RMfno0017k02J1oSIuOoX7YoV3khmST4DXqt8vl1ohE/edit?usp=sharing)
 
 
-## Introduction to Natural Language Processing
-
-
-## Neural Networks: Deep Dive
 
 ## 👜 Supplementary Python Tutorials
 
