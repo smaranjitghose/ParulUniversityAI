@@ -1,15 +1,13 @@
 # Artificial Intelligence
 
-Faculty: Smaranjit Ghose
 
-**Divisions**:
-- 5B5
-- 5B6
-- 5B7
-- 5B8
-- 5B17
+### Course Information
 
-
+**Subject Code** : 203105322
+**Faculty**: Mr Smaranjit Ghose
+**Semester**: 5
+**Year**: 2023
+**Divisions** (under direct tutelage): 5B5, 5B6, 5B7, 5B8, 5B17
 
 
 ## Unit 1: 
