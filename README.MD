@@ -25,7 +25,7 @@
 |-----|------|-------------------|-----------------| Solutions(s) |
 | 1 | Introduction to Artificial Intelligence | | | |
 | 2 | Exploratory Data Analysis | | | |
-| 3 | State Space Search| - [Unit 3 Material]((https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)| | |
+| 3 | State Space Search| [Unit 3 Material]((https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)| | |
 | 4 | Knowledge Representation | | | |
 | 5 | Fuzzy Logic | | | |
 | 6 | Machine Learning | | | |
