@@ -56,7 +56,9 @@
 
 
 
-## 👜 Supplementary Python Tutorials
+## 👜 Supplementary Material
 
 - [datetime module](./datetime_tutorial.ipynb)
+
+<!-- -->
 
