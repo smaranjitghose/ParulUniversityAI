@@ -13,13 +13,10 @@
 ## **📚 Study Material**
 
 
-
-## Unit 2: Exploratory Data Analysis
-
 |Unit | Name | Lecture Material | Practice Problem(s)| Solution(s) |
 |-----|------|-------------------|-----------------| --------- |
-| 1 | Introduction to Artificial Intelligence | | | |
-| 2 | Exploratory Data Analysis | | | |
+| 1 | Introduction to Artificial Intelligence | [Unit 1 Material](https://github.com/smaranjitghose/ParulUniversityAI/blob/master/Unit%201.pptx) | | |
+| 2 | Exploratory Data Analysis | [Unit 2 Material] (https://github.com/smaranjitghose/ParulUniversityAI/tree/master/EDA) | | |
 | 3 | State Space Search| - [Unit 3 Material](https://docs.google.com/presentation/d/1RWcXZaFgThKbOM9FM3CF5n7nMAgfsE83FDUiGRMaDKI/edit?usp=sharing)| | |
 | 4 | Knowledge Representation | [Unit 4 Material ](https://docs.google.com/presentation/d/18pDtVmlpP-T_C7N3oGf7H9FEWf291R2jNWYC75ZeVt4/edit?usp=sharing)| | |
 | 5 | Fuzzy Logic |[Unit 5 Material](https://docs.google.com/presentation/d/1RMfno0017k02J1oSIuOoX7YoV3khmST4DXqt8vl1ohE/edit?usp=sharing) | | |
