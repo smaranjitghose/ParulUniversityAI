@@ -33,7 +33,6 @@ Faculty: Smaranjit Ghose
 |------|---------|---------|
 |1|[Iris](https://www.kaggle.com/datasets/uciml/iris)||
 |2|[Titanic](https://www.kaggle.com/competitions/titanic)| [Titanic_EDA](./EDA_Problems/Titanic_EDA.ipynb)|
-
 | 3 | [IPL 2008-2022 matches dataset](https://www.kaggle.com/datasets/vora1011/ipl-2008-to-2021-all-match-dataset) | [IPL EDA](./EDA_Problems/IPL_EDA.ipynb) | 
 
 
