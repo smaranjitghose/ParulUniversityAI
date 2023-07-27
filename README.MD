@@ -68,3 +68,7 @@ Faculty: Smaranjit Ghose
 
 ## Neural Networks: Deep Dive
 
+## Additional Python Tutorial
+
+- [datetime module](./datetime_tutorial.ipynb)
+
