@@ -12,8 +12,9 @@ Faculty: Smaranjit Ghose
 
 
 
-## Unit 1: Introduction to AI and Python for AI
+## Unit 1: 
 
+[Introduction to AI](./Unit1.pptx)
 
 ---
 
