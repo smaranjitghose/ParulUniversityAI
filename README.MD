@@ -1,7 +1,7 @@
 # Artificial Intelligence
 
 
-### 🎓 Course Information
+## **🎓 Course Information**
 
 - **Subject Code** : 203105322
 - **Faculty**: Mr Smaranjit Ghose
