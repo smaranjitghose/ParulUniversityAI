@@ -49,6 +49,10 @@
 | 6 |[PIMA Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)||
 | 7 |[Amazon Review for Sentiment Analysis](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews)||
 
+## Course Announcements 📢
+
+[Check here for the latest announcements](./Announcements.MD)
+
 
 
 
