@@ -10,6 +10,9 @@
 - **Divisions** (under direct tutelage): 5B5, 5B6, 5B7, 5B8, 5B17
 
 
+## **📚 Study Material**
+
+
 ## Unit 1: 
 
 [Introduction to AI](./Unit1.pptx)
