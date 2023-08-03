@@ -2,8 +2,9 @@
 
 
 ---
+**2023-08-01**: 
 
-- Form Submission Link: https://forms.gle/KG8dFbtdyYcoAuvz7
+- Assignment Submission Link Released: https://forms.gle/KG8dFbtdyYcoAuvz7
 
 
 ---
