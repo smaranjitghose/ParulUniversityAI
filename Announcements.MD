@@ -4,7 +4,7 @@
 ---
 **2023-08-01**: 
 
-- Assignment Submission Link Released: https://forms.gle/KG8dFbtdyYcoAuvz7
+- Assignment 1 Submission Link Released: https://forms.gle/KG8dFbtdyYcoAuvz7
 
 
 ---
