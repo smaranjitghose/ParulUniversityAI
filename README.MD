@@ -60,6 +60,8 @@
 
 - [datetime module](./datetime_tutorial.ipynb)
 
+- [Image Processing Mini Project](https://colab.research.google.com/drive/1UkrggIS9EpSge2y7z0PU_8g73IydpBc7?usp=sharing)
+
 <!-- 
 
 - os module
