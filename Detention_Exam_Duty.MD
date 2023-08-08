@@ -1,4 +1,4 @@
-## Detention Exam
+<h1 align = "center"> DETENTION EXAMINATION </h1>
 
 - **Department**: CSE 
 - **Campus**: PIET
