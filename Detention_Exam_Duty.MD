@@ -22,11 +22,12 @@
 
 ## 🪖 Guidelines
 
-- Phones are not allowed during the course of detention exam assignment completiton and must be kept in bags placed at front of the classroom
+- Phones are not allowed during the course of detention exam duration and must be kept in bags placed at front of the classroom
 - Students must bring a dedicated notebook for writing the detention exam assignments
 - Attendance would be taken by supervisor twice: once in morning slot and again in evening slot
 - Students would have to sign a separate attendance sheet
 - Students must not leave the classroom or access mobile phones without the permission of the supervisor
+- Students who attend the morning slot and skip the evening slot would be marked absent for both the slots
 
 
 
