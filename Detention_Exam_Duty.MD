@@ -14,7 +14,7 @@
 |-----------|--------|---------------|
 |07-08-2023 | Data Structures and Algorithms | |
 |08-08-2023 | Database Management Systems | [DBMS Assignment](./DBMS%20Assignment.pdf)|
-|09-08-2023 | OOPs |[OOP Assignment](.OOP_Detention_Questions.pdf) |
+|09-08-2023 | OOPs |[OOP Assignment](./OOP_Detention_Questions.pdf) |
 |10-08-2023 | Discrete Mathematics| |
 |11-08-2023 | Digital Electronics | |
 
