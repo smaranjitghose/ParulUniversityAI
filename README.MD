@@ -21,8 +21,8 @@
 | 4 | Knowledge Representation | [Unit 4 Material ](https://docs.google.com/presentation/d/18pDtVmlpP-T_C7N3oGf7H9FEWf291R2jNWYC75ZeVt4/edit?usp=sharing)| | |
 | 5 | Fuzzy Logic |[Unit 5 Material](https://docs.google.com/presentation/d/1RMfno0017k02J1oSIuOoX7YoV3khmST4DXqt8vl1ohE/edit?usp=sharing) | | |
 | 6 | Natural Language Processing | [Unit 6 Material](https://docs.google.com/presentation/d/1XqtA8Dp2i1oFqXcCwo3gZSKZ7KtyO02HZG8WcXg6_9Q/edit?usp=sharing) | | |
-| 7 | Machine Learning | | | |
-| 8 | Fundamentals of Neural Netorks | | | |
+| 7 | Machine Learning | Discussed via hands on | | |
+| 8 | Fundamentals of Neural Networks and Expert Systems | [Unit 7 Material](https://docs.google.com/presentation/d/1LQ_25SeSRHHSAZdFcG1r77Rufk58vlcOSkKDPBU-yqg/edit?usp=sharing) | | |
 
 
 
