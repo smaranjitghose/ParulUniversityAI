@@ -55,6 +55,24 @@
 
 
 
+Pandas Exercise 2 Soln (Temp)
+
+```
+prices = [float(value[1 : -1]) for value in chipo.item_price]
+
+# reassign the column with the cleaned prices
+chipo.item_price = prices
+
+# delete the duplicates in item_name and quantity
+chipo_filtered = chipo.drop_duplicates(['item_name','quantity','choice_description'])
+
+# chipo_filtered
+
+# select only the products with quantity equals to 1
+chipo_one_prod = chipo_filtered[chipo_filtered.quantity == 1]
+chipo_one_prod
+```
+
 
 ## 👜 Supplementary Material
 
